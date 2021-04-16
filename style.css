@@ -1,0 +1,33 @@
+.logo {
+  height: 30vh;
+  width: 20vw;
+}
+.nav-bar {
+  background-color: red;
+  display: flex;
+  flex-direction: row;
+}
+.link {
+  padding-left: 2vw;
+  font-size: larger;
+}
+.head-link {
+  display: flex;
+  flex-direction: row;
+  margin-left: 8vw;
+}
+.title {
+  margin-left: 22vw;
+}
+.content {
+  display: flex;
+  flex-direction: row;
+}
+.con-para {
+  margin-left: 15vw;
+  font-size: 20px;
+}
+.con-head {
+  display: inline;
+  margin-left: 5vw;
+}
